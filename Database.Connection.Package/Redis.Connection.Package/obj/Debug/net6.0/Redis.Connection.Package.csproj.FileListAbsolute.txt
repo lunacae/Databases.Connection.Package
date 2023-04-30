@@ -1,0 +1,12 @@
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\bin\Debug\net6.0\Redis.Connection.Package.deps.json
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\bin\Debug\net6.0\Redis.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\bin\Debug\net6.0\Redis.Connection.Package.pdb
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.AssemblyInfo.cs
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\refint\Redis.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\Redis.Connection.Package.pdb
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Redis.Connection.Package\obj\Debug\net6.0\ref\Redis.Connection.Package.dll

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "R++okAxQlDzkxG/l9ZVTnIH0woa/z7dSxgK1MWZNBGkuYtBbevu7icxeQ/zaKis+PYzuQoNvDAiYc1ozjnbCUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devel\\Documents\\Luna\\Database.Connection.Package\\Redis.Connection.Package\\Redis.Connection.Package.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devel\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\stackexchange.redis\\2.6.104\\stackexchange.redis.2.6.104.nupkg.sha512",
+    "C:\\Users\\devel\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://34.224.235.234:5000'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

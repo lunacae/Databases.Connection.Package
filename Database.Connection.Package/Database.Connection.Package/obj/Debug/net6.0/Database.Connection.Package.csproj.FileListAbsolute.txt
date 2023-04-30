@@ -1,0 +1,15 @@
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\bin\Debug\net6.0\Database.Connection.Package.exe
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\bin\Debug\net6.0\Database.Connection.Package.deps.json
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\bin\Debug\net6.0\Database.Connection.Package.runtimeconfig.json
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\bin\Debug\net6.0\Database.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\bin\Debug\net6.0\Database.Connection.Package.pdb
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.AssemblyInfo.cs
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\refint\Database.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.pdb
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\Database.Connection.Package.genruntimeconfig.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\Database.Connection.Package\obj\Debug\net6.0\ref\Database.Connection.Package.dll

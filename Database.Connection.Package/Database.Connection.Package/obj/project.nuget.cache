@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/ZLFXTlONyaP+4NGvhm2Cr4wH4O4G/Fb94PsRjufwlG3TXuWYhrEs4zTOhJVXImeQ/MtyHy2T2SkZKG+cmJF5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\devel\\Documents\\Luna\\Database.Connection.Package\\Database.Connection.Package\\Database.Connection.Package.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://34.224.235.234:5000'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

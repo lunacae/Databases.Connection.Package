@@ -1,0 +1,12 @@
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\bin\Debug\net6.0\MongoDb.Connection.Package.deps.json
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\bin\Debug\net6.0\MongoDb.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\bin\Debug\net6.0\MongoDb.Connection.Package.pdb
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.csproj.AssemblyReference.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.AssemblyInfoInputs.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.AssemblyInfo.cs
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.csproj.CoreCompileInputs.cache
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\refint\MongoDb.Connection.Package.dll
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\MongoDb.Connection.Package.pdb
+C:\Users\devel\Documents\Luna\Database.Connection.Package\MongoDb.Connection.Package\obj\Debug\net6.0\ref\MongoDb.Connection.Package.dll
